@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="Kapamilya.Channel.ph"><display-name lang="en">Kapamilya Channel</display-name></channel>
+  <channel id="GMA.ph"><display-name lang="en">GMA</display-name></channel>
+  <channel id="TV5.ph"><display-name lang="en">TV5</display-name></channel>
+  <channel id="a2z.Channel.11.ph"><display-name lang="en">a2z Channel 11</display-name></channel>
+  <channel id="GTV.ph"><display-name lang="en">GTV</display-name></channel>
+  <channel id="ABANTE.ph"><display-name lang="en">ABANTE</display-name></channel>
+  <channel id="ANC.ph"><display-name lang="en">ANC</display-name></channel>
+  <channel id="AXN.ph"><display-name lang="en">AXN</display-name></channel>
+  <channel id="Animax.ph"><display-name lang="en">Animax</display-name></channel>
+  <channel id="PBO.ph"><display-name lang="en">PBO</display-name></channel>
+  <channel id="Cinema.One.ph"><display-name lang="en">Cinema One</display-name></channel>
+  <channel id="Cinemax.ph"><display-name lang="en">Cinemax</display-name></channel>
+  <channel id="Cnn.Hd.ph"><display-name lang="en">Cnn Hd</display-name></channel>
+  <channel id="Discovery.ph"><display-name lang="en">Discovery</display-name></channel>
+  <channel id="History.ph"><display-name lang="en">History</display-name></channel>
+  <channel id="IBC.TV.13.ph"><display-name lang="en">IBC TV 13</display-name></channel>
+  <channel id="Jeepney.TV.ph"><display-name lang="en">Jeepney TV</display-name></channel>
+  <channel id="Knowledge.Channel.ph"><display-name lang="en">Knowledge Channel</display-name></channel>
+  <channel id="MYX.ph"><display-name lang="en">MYX</display-name></channel>
+  <channel id="Metro.Channel.ph"><display-name lang="en">Metro Channel</display-name></channel>
+  <channel id="Net.25.ph"><display-name lang="en">Net 25</display-name></channel>
+  <channel id="PTV.ph"><display-name lang="en">PTV</display-name></channel>
+  <channel id="Rptv.ph"><display-name lang="en">Rptv</display-name></channel>
+  <channel id="Buko.ph"><display-name lang="en">Buko</display-name></channel>
+  <channel id="Sari.Sari.ph"><display-name lang="en">Sari Sari</display-name></channel>
+  <channel id="Solar.Flix.ph"><display-name lang="en">Solar Flix</display-name></channel>
+  <channel id="Tagalized.Movie.Channel.ph"><display-name lang="en">Tagalized Movie Channel</display-name></channel>
+  <channel id="VIVA.Cinema.ph"><display-name lang="en">VIVA Cinema</display-name></channel>
+  <channel id="Depedchannel.ph"><display-name lang="en">Depedchannel</display-name></channel>
+  <channel id="ANIONE.ph"><display-name lang="en">ANIONE</display-name></channel>
+
+  <!-- KAPAMILYA CHANNEL -->
+  <programme start="20260919120000 +0800" stop="20260919150000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">Tanghaliang pasiklaban at tawanan kasama ang buong pamilya ng Madlang People sa bansa.</desc>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Action Sabado</title>
+    <desc lang="en">Maaksyong hapon kasama ang pinakamahuhusay na bida sa larangan ng pelikulang Pilipino.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919173000 +0800" stop="20260919183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">Komprehensibong balita sa buong bansa at ibayong dagat mula sa ABS-CBN News.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919183000 +0800" stop="20260919193000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya, Deal or No Deal</title>
+    <desc lang="en">Matinding tensyon at pakikipagtawaran ng studio player laban sa mga alok ni Banker.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260919193000 +0800" stop="20260919210000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Everybody, Sing!</title>
+    <desc lang="en">Community singing game show sa pamumuno ni Vice Ganda kasama ang songbayanan.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919230000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+    <desc lang="en">Mga totoong kwento ng pagsubok at tagumpay na ibinahagi ng ating mga kababayan.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+
+  <!-- GMA NETWORK -->
+  <programme start="20260919120000 +0800" stop="20260919144500 +0800" channel="GMA.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">Simulcast ng paboritong noontime variety show kasama ang mga Kapuso at Madlang People.</desc>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme start="20260919144500 +0800" stop="20260919151500 +0800" channel="GMA.ph">
+    <title lang="en">Born to Shine</title>
+    <desc lang="en">Pagtuklas at pagpapakitang-gilas ng mga bagong talento sa pagkanta at pag-arte sa telebisyon.</desc>
+    <category lang="en">Talent</category>
+  </programme>
+  <programme start="20260919151500 +0800" stop="20260919160500 +0800" channel="GMA.ph">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">Panghapong drama anthology na hino-host ni Marian Rivera tungkol sa buhay ng OFW.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919160500 +0800" stop="20260919164500 +0800" channel="GMA.ph">
+    <title lang="en">Wish Ko Lang!</title>
+    <desc lang="en">Dramatisasyon ng mga totoong karanasan sa buhay na may kaakibat na tulong pinansyal.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919164500 +0800" stop="20260919173000 +0800" channel="GMA.ph">
+    <title lang="en">Farm To Table</title>
+    <desc lang="en">Pang-araw-araw na pagluluto gamit ang mga sariwang sangkap mula sa bukid patungong hapag.</desc>
+    <category lang="en">Cooking</category>
+  </programme>
+  <programme start="20260919173000 +0800" stop="20260919181500 +0800" channel="GMA.ph">
+    <title lang="en">24 Oras Weekend</title>
+    <desc lang="en">Nangungunang ulat at pinakasariwang impormasyon sa buong kapuluan mula sa GMA Integrated News.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919181500 +0800" stop="20260919191500 +0800" channel="GMA.ph">
+    <title lang="en">The People Have Spoken</title>
+    <desc lang="en">Malalimang pagsusuri at talakayan ukol sa mga opinyon ng taumbayan sa mga isyu.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+  <programme start="20260919191500 +0800" stop="20260919201500 +0800" channel="GMA.ph">
+    <title lang="en">Pepito Manaloto: Tuloy ang Kuwento</title>
+    <desc lang="en">Kwela at pampamilyang sitcom na sumasalamin sa totoong buhay ng pamilyang Pilipino.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919201500 +0800" stop="20260919213000 +0800" channel="GMA.ph">
+    <title lang="en">Magpakailanman</title>
+    <desc lang="en">Dramatisasyon ng mga totoong kwento ng katatagan at pananampalataya hatid ni Mel Tiangco.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919213000 +0800" stop="20260919221500 +0800" channel="GMA.ph">
+    <title lang="en">Daig Kayo ng Lola Ko</title>
+    <desc lang="en">Pantasya at mahiwagang kwentong pambata na nagtuturo ng magagandang asal sa bawat tahanan.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260919221500 +0800" stop="20260919230000 +0800" channel="GMA.ph">
+    <title lang="en">I-Witness</title>
+    <desc lang="en">Mapanuring dokumentaryo ng mga batikang mamamahayag tungkol sa iba't ibang mukha ng lipunan.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+
+  <!-- TV5 -->
+  <programme start="20260919112500 +0800" stop="20260919143000 +0800" channel="TV5.ph">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Ang longest-running noontime variety show sa bansa kasama ang TVJ at Dabarkads.</desc>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme start="20260919143000 +0800" stop="20260919170000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Express</title>
+    <desc lang="en">Mabilis ngunit kumpletong ulat ng mga kaganapan sa buong Pilipinas at mundo.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919183000 +0800" channel="TV5.ph">
+    <title lang="en">Frontline Pilipinas Weekend</title>
+    <desc lang="en">Diretsahang pagbabalita at paghahatid ng katotohanan tuwing weekend mula sa Kapatid network.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919183000 +0800" stop="20260919193000 +0800" channel="TV5.ph">
+    <title lang="en">Kapamilya, Deal or No Deal</title>
+    <desc lang="en">Simulcast broadcast ng paboritong briefcase game show kasama ang mga matatapang na manlalaro.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260919193000 +0800" stop="20260919210000 +0800" channel="TV5.ph">
+    <title lang="en">Everybody, Sing!</title>
+    <desc lang="en">Kantahan at pagkakaisa ng mga ordinaryong manggagawa para sa inaasam na malaking jackpot.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919223000 +0800" channel="TV5.ph">
+    <title lang="en">Project Loki</title>
+    <desc lang="en">Misteryo at imbestigasyon ng mga estudyante sa loob ng kanilang sariling paaralan.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+
+  <!-- A2Z CHANNEL 11 -->
+  <programme start="20260919120000 +0800" stop="20260919150000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">Sabay-sabay na kulitan at mga paboritong paligsahan sa tanghalian para sa lahat.</desc>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Zine Aksyon</title>
+    <desc lang="en">Umaatikabong aksyon mula sa mga sikat na pelikulang paborito ng masang Pilipino.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919173000 +0800" stop="20260919183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">Simulcast ng nangungunang balita sa gabi mula sa tanggapan ng ABS-CBN.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919183000 +0800" stop="20260919193000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Rainbow Rumble</title>
+    <desc lang="en">Makulay na tagisan ng talino at swerte kasama ang batikang host na si Luis Manzano.</desc>
+    <category lang="en">Game Show</category>
+  </programme>
+  <programme start="20260919193000 +0800" stop="20260919210000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Idol Kids Philippines</title>
+    <desc lang="en">Paligsahan ng boses at talento ng mga pinakamahuhusay na batang mang-aawit sa bansa.</desc>
+    <category lang="en">Talent</category>
+  </programme>
+
+  <!-- GTV -->
+  <programme start="20260919120000 +0800" stop="20260919143000 +0800" channel="GTV.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Mga Tagalized international movies na magpapasaya sa inyo habang kumakain ng pananghalian.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919143000 +0800" stop="20260919173000 +0800" channel="GTV.ph">
+    <title lang="en">Afternoon Movie Break</title>
+    <desc lang="en">Tuloy-tuloy na marathon ng mga paboritong pelikulang aksyon at komedya ngayong hapon.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919173000 +0800" stop="20260919183000 +0800" channel="GTV.ph">
+    <title lang="en">24 Oras Weekend</title>
+    <desc lang="en">Simulcast broadcast mula sa GMA Network upang mapanatili kayong updated sa mga balita.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919183000 +0800" stop="20260919201500 +0800" channel="GTV.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">Piling mga pelikulang Hollywood na isinalin sa wikang Tagalog para sa mga manonood.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919201500 +0800" stop="20260919210000 +0800" channel="GTV.ph">
+    <title lang="en">Pinas Sarap</title>
+    <desc lang="en">Pagtuklas sa tradisyon at sarap ng mga lokal na lutuin kasama si Kara David.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+
+  <!-- ABANTE -->
+  <programme start="20260919120000 +0800" stop="20260919130000 +0800" channel="ABANTE.ph">
+    <title lang="en">AGANDA</title>
+    <desc lang="en">Mabilis at matapang na pagbabalita sa mga isyung kinakaharap ng ating bansa.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919140000 +0800" channel="ABANTE.ph">
+    <title lang="en">INTIMATALK</title>
+    <desc lang="en">Malaman na talakayan ukol sa pamilya, relasyon, at personal na pamumuhay.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919150000 +0800" channel="ABANTE.ph">
+    <title lang="en">SESSIONS WITH BRIAN YAMSUAN</title>
+    <desc lang="en">Panayam sa mga mambabatas at lider ng pamahalaan hinggil sa mga batas.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919160000 +0800" channel="ABANTE.ph">
+    <title lang="en">TELEBABE</title>
+    <desc lang="en">Masayang programa na naghahatid ng mga paboritong pampalipas oras at kwento.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919170000 +0800" channel="ABANTE.ph">
+    <title lang="en">TAMANG KWENTUHAN</title>
+    <desc lang="en">Usapang pampamilya at mga usaping bayan na tinatalakay sa magaan na paraan.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919180000 +0800" channel="ABANTE.ph">
+    <title lang="en">SHOWBIZ PULIS</title>
+    <desc lang="en">Pinakasariwang balita at mga intriga mula sa mundo ng showbiz at sining.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919190000 +0800" channel="ABANTE.ph">
+    <title lang="en">SPORTSNOW WEEKEND</title>
+    <desc lang="en">Lahat ng balita, marka, at kaganapan sa mundo ng palakasan sa Pilipinas.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919200000 +0800" channel="ABANTE.ph">
+    <title lang="en">TELEBABE PRIMETIME</title>
+    <desc lang="en">Panggabing edisyon ng masayang kwentuhan at pakikipag-ugnayan sa mga manonood.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919210000 +0800" channel="ABANTE.ph">
+    <title lang="en">AGANDA EVENING</title>
+    <desc lang="en">Panggabing ulat ng mahahalagang pangyayari sa buong araw mula sa Abante.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919220000 +0800" channel="ABANTE.ph">
+    <title lang="en">TULONG ABANTE</title>
+    <desc lang="en">Programang nagbibigay ng direktang tulong at serbisyo publiko sa mga nangangailangan.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+
+  <!-- ANC -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="ANC.ph">
+    <title lang="en">Dateline Philippines</title>
+    <desc lang="en">In-depth and reliable news reporting covering events across the Philippine archipelago.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="ANC.ph">
+    <title lang="en">Top Story Weekend</title>
+    <desc lang="en">Comprehensive breakdown of the day's major political, business, and international developments.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="ANC.ph">
+    <title lang="en">ANC Documentaries</title>
+    <desc lang="en">Thought-provoking investigative pieces detailing economic, historical, and environmental issues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="ANC.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">Flagship evening English newscast delivering global updates and national headlines.</desc>
+    <category lang="en">News</category>
+  </programme>
+
+  <!-- AXN -->
+  <programme start="20260919122500 +0800" stop="20260919125500 +0800" channel="AXN.ph">
+    <title lang="en">Cyril: Simply Magic</title>
+    <desc lang="en">Mind-bending street magic performances captivating audiences across major global cities.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260919125500 +0800" stop="20260919134500 +0800" channel="AXN.ph">
+    <title lang="en">CIA</title>
+    <desc lang="en">High-stakes espionage and international intelligence operations following covert American operatives.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919134500 +0800" stop="20260919144000 +0800" channel="AXN.ph">
+    <title lang="en">Doc</title>
+    <desc lang="en">A medical drama highlighting a brilliant doctor struggling with lost memories.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919144000 +0800" stop="20260919153000 +0800" channel="AXN.ph">
+    <title lang="en">FBI</title>
+    <desc lang="en">Fast-paced procedural uncovering major criminal conspiracies and terror threats in New York.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919153000 +0800" stop="20260919162500 +0800" channel="AXN.ph">
+    <title lang="en">The Rookie</title>
+    <desc lang="en">Police officers confronting daily challenges on the streets of Los Angeles.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919162500 +0800" stop="20260919181000 +0800" channel="AXN.ph">
+    <title lang="en">The Super Mario Bros. Movie</title>
+    <desc lang="en">Animated fantasy adventure following Brooklyn plumbers transported into the magical Mushroom Kingdom.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+
+  <!-- ANIMAX -->
+  <programme start="20260919103000 +0800" stop="20260919120000 +0800" channel="Animax.ph">
+    <title lang="en">The Foolish Angel Dances With The Devil</title>
+    <desc lang="en">Comedy fantasy romance between a hidden demon and an undercover angel.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919130000 +0800" channel="Animax.ph">
+    <title lang="en">OSHI NO KO Season 2</title>
+    <desc lang="en">Intriguing mysteries unfold in the cutthroat and dark world of entertainment.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919150000 +0800" channel="Animax.ph">
+    <title lang="en">Tsukimichi -Moonlit Fantasy- Season 2</title>
+    <desc lang="en">Hero navigating a strange parallel world surrounded by magical beings and monsters.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919170000 +0800" channel="Animax.ph">
+    <title lang="en">Jujutsu Kaisen</title>
+    <desc lang="en">Supernatural sorcerers battling malevolent cursed spirits using powerful martial techniques.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+
+  <!-- PBO -->
+  <programme start="20260919110000 +0800" stop="20260919130000 +0800" channel="PBO.ph">
+    <title lang="en">SPO1 Don Juan (Da Dancing Policeman)</title>
+    <desc lang="en">Klasikong comedy-action film tampok ang isang pulis na mahilig sa pagsayaw.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919150000 +0800" channel="PBO.ph">
+    <title lang="en">Annie B.</title>
+    <desc lang="en">Masayang musikal at pampamilyang pelikula na puno ng tawanan at sayawan.</desc>
+    <category lang="en">Musical</category>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919171500 +0800" channel="PBO.ph">
+    <title lang="en">Lupe, A Seaman's Wife</title>
+    <desc lang="en">Mabigat na dramang romantiko tungkol sa buhay at pangungulila ng asawa.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919171500 +0800" stop="20260919190000 +0800" channel="PBO.ph">
+    <title lang="en">Elevator</title>
+    <desc lang="en">Romantikong drama ng dalawang manggagawang Pilipino na nagkatagpo sa ibang bansa.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919193000 +0800" channel="PBO.ph">
+    <title lang="en">Anong Ganap?</title>
+    <desc lang="en">Mga sariwang balita at pambihirang updates ukol sa lokal na showbiz.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260919193000 +0800" stop="20260919213000 +0800" channel="PBO.ph">
+    <title lang="en">Bullet</title>
+    <desc lang="en">Maaksyong pelikula ukol sa lalaking lumalaban para sa hustisya at pamilya.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919213000 +0800" stop="20260919233000 +0800" channel="PBO.ph">
+    <title lang="en">Of All The Things</title>
+    <desc lang="en">Kuwento ng dating abugado at fixer na muling nakatagpo ng pag-asa.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+
+  <!-- CINEMA ONE -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Can't Buy Me Love: Marathon</title>
+    <desc lang="en">Panoorin ang mga kapana-panabik na tagpo sa sikat na modernong teleserye.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Cinema.One.ph">
+    <title lang="en">That Thing Called Tadhana</title>
+    <desc lang="en">Road trip movie tungkol sa dalawang taong naghilom sa lungsod ng Baguio.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Four Sisters and a Wedding</title>
+    <desc lang="en">Pampamilyang komedya na sumusubok sa pagmamahalan ng apat na magkakapatid na babae.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Cinema.One.ph">
+    <title lang="en">A Very Good Girl</title>
+    <desc lang="en">Matapang na kwento ng paghihiganti nina Kathryn Bernardo at Dolly de Leon.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+
+  <!-- CINEMAX -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Cinemax.ph">
+    <title lang="en">Mad Max: Fury Road</title>
+    <desc lang="en">High-speed desert chases and relentless action in a harsh post-apocalyptic wasteland.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Cinemax.ph">
+    <title lang="en">The Meg 2: The Trench</title>
+    <desc lang="en">Explorers battling ancient colossal sharks emerging from the deepest ocean trenches.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Cinemax.ph">
+    <title lang="en">Nobody</title>
+    <desc lang="en">A seemingly ordinary suburban family man unleashes his deadly and forgotten skills.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Cinemax.ph">
+    <title lang="en">Mortal Kombat</title>
+    <desc lang="en">Earth's greatest martial artists battle outworld fighters for the universe's fate.</desc>
+    <category lang="en">Action</category>
+  </programme>
+
+  <!-- CNN HD -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Cnn.Hd.ph">
+    <title lang="en">CNN Newsroom Live</title>
+    <desc lang="en">Live rolling coverage of top developing headlines and current global affairs.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Cnn.Hd.ph">
+    <title lang="en">One World with Zain Asher</title>
+    <desc lang="en">Global geopolitical developments analyzed by international diplomats and world leaders.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Cnn.Hd.ph">
+    <title lang="en">Amanpour</title>
+    <desc lang="en">Christiane Amanpour leads incisive discussions on critical world affairs and rights.</desc>
+    <category lang="en">Talk</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Cnn.Hd.ph">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Hard-hitting political coverage and investigative reporting exposing controversies and facts.</desc>
+    <category lang="en">News</category>
+  </programme>
+
+  <!-- DISCOVERY -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Discovery.ph">
+    <title lang="en">MythBusters: The Next Generation</title>
+    <desc lang="en">Rigorous science experiments testing myths, internet videos, and everyday urban legends.</desc>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Discovery.ph">
+    <title lang="en">Gold Rush Season 15</title>
+    <desc lang="en">Miners battle extreme mechanical breakdowns to unearth precious gold underground.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Discovery.ph">
+    <title lang="en">Deadliest Catch</title>
+    <desc lang="en">Fishermen confronting massive arctic storms while hunting valuable crab in Alaska.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Discovery.ph">
+    <title lang="en">Naked and Afraid</title>
+    <desc lang="en">Survivalists attempting to withstand harsh wilderness environments with zero modern resources.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+
+  <!-- HISTORY -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="History.ph">
+    <title lang="en">Pawn Stars</title>
+    <desc lang="en">Las Vegas shop owners evaluating historical weapons, documents, and vintage collectibles.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="History.ph">
+    <title lang="en">Ancient Aliens</title>
+    <desc lang="en">Investigating whether extraterrestrial intelligence visited Earth throughout ancient human civilisations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="History.ph">
+    <title lang="en">The Curse of Oak Island</title>
+    <desc lang="en">Brothers continue an elaborate subterranean search for centuries-old concealed treasures.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="History.ph">
+    <title lang="en">Forged in Fire</title>
+    <desc lang="en">Weaponsmiths creating legendary blades subjected to demanding strength and precision tests.</desc>
+    <category lang="en">Reality</category>
+  </programme>
+
+  <!-- IBC 13 -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="IBC.TV.13.ph">
+    <title lang="en">IBC Express Balita</title>
+    <desc lang="en">Pangunahing balita at ulat sa tanghali para sa masang Pilipino.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="IBC.TV.13.ph">
+    <title lang="en">Sabado Sine Max</title>
+    <desc lang="en">Libreng pelikulang Tagalog na hitik sa aral, kwela, at aksyon.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="IBC.TV.13.ph">
+    <title lang="en">Public Eye Weekend</title>
+    <desc lang="en">Talakayan hinggil sa mga programa ng pamahalaan para sa kapakanan ng lahat.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="IBC.TV.13.ph">
+    <title lang="en">Okey Ka Fairy Ko! (Classics)</title>
+    <desc lang="en">Panoorin ang nakatutuwang buhay ng mag-asawang Enteng at Faye sa Engkantasya.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <!-- JEEPNEY TV -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Pangako Sa 'Yo</title>
+    <desc lang="en">Klasikong kwento ng pag-ibig nina Yna Macaspac at Angelo Buenavista.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Meteor Garden</title>
+    <desc lang="en">Panoorin ang iconic na kwento ng pag-ibig ni Shan Cai at F4.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Home Along Da Riles</title>
+    <desc lang="en">Tawanan kasama si Mang Kevin Cosme at ang buong pamilya nito.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Jeepney.TV.ph">
+    <title lang="en">Got to Believe</title>
+    <desc lang="en">Kilig serye tungkol sa pagmamahalan nina Joaquin at Chichay sa Maynila.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+
+  <!-- KNOWLEDGE CHANNEL -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Knowledge.Channel.ph">
+    <title lang="en">MathDali</title>
+    <desc lang="en">Masayang paraan ng pagtuturo at pagkatuto ng matematika para sa mga bata.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Knowledge.Channel.ph">
+    <title lang="en">Sineskwela</title>
+    <desc lang="en">Pagtuklas sa kamangha-manghang mundo ng agham gamit ang makukulay na aralin.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Knowledge.Channel.ph">
+    <title lang="en">Wikaharian</title>
+    <desc lang="en">Pagsasanay sa pagbasa at paggamit ng wikang Filipino sa pang-araw-araw.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Knowledge.Channel.ph">
+    <title lang="en">Bayani</title>
+    <desc lang="en">Pagsilip sa makasaysayang buhay ng mga magigiting na bayaning nagtanggol sa bayan.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+
+  <!-- MYX -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="MYX.ph">
+    <title lang="en">MYX Daily Top 10</title>
+    <desc lang="en">Ang pinakamainit at pinakapinapatugtog na mga music videos ngayong buong linggo.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="MYX.ph">
+    <title lang="en">Pinoy MYX Countdown</title>
+    <desc lang="en">Pagsubaybay sa pinakasikat na OPM tracks na gawa ng mga Pilipino.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="MYX.ph">
+    <title lang="en">MYX Live!</title>
+    <desc lang="en">Natatanging pagtatanghal ng paborito ninyong mga banda at mang-aawit sa entablado.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="MYX.ph">
+    <title lang="en">Pop MYX</title>
+    <desc lang="en">Walang patid na tugtugan ng mga trending P-Pop at international hits.</desc>
+    <category lang="en">Music</category>
+  </programme>
+
+  <!-- METRO CHANNEL -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Metro.Channel.ph">
+    <title lang="en">The Food That Made China</title>
+    <desc lang="en">Culinary journeys exploring traditional techniques across prominent Chinese gastronomical destinations.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Metro.Channel.ph">
+    <title lang="en">Casa</title>
+    <desc lang="en">Showcasing remarkable architectural aesthetics and interior modern home decors in Asia.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Metro.Channel.ph">
+    <title lang="en">EIC on the Move</title>
+    <desc lang="en">Luxury travel guide revealing five-star retreats and pristine worldwide getaway hotspots.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Metro.Channel.ph">
+    <title lang="en">Metro Style</title>
+    <desc lang="en">Spotlighting top runway trends, haute couture fashion, and beauty style icons.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+
+  <!-- NET 25 -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Net.25.ph">
+    <title lang="en">Agila Balita Tanghali</title>
+    <desc lang="en">Mahahalagang ulat at balita sa tanghali mula sa himpilan ng Net 25.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Net.25.ph">
+    <title lang="en">Ano Sa Palagay Niyo?</title>
+    <desc lang="en">Pagsusuri at komentaryo sa pinakamaiinit na usaping pambansa kasama ang mga tagapagsalita.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Net.25.ph">
+    <title lang="en">Responde: Tugon sa Tawag ng Pangangailangan</title>
+    <desc lang="en">Aksyon at serbisyo publiko para sa mamamayang nangangailangan ng agarang tulong.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Net.25.ph">
+    <title lang="en">Mata ng Agila Weekend</title>
+    <desc lang="en">Panggabing balita at mga eksklusibong ulat sa loob at labas ng bansa.</desc>
+    <category lang="en">News</category>
+  </programme>
+
+  <!-- PTV -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="PTV.ph">
+    <title lang="en">Balita Ngayon Sabado</title>
+    <desc lang="en">Opisyal na balita mula sa pambansang pamahalaan para sa mga mamamayan.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="PTV.ph">
+    <title lang="en">Bagong Pilipinas Ngayon</title>
+    <desc lang="en">Talakayan hinggil sa mga programa at proyektong pangkaunlaran ng kasalukuyang administrasyon.</desc>
+    <category lang="en">Public Affairs</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="PTV.ph">
+    <title lang="en">PNA Newsroom</title>
+    <desc lang="en">Ulat mula sa Philippine News Agency ukol sa kapayapaan at seguridad.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="PTV.ph">
+    <title lang="en">Ulat Bayan Weekend</title>
+    <desc lang="en">Pangunahing newscast ng pamahalaan na naghahatid ng tumpak na impormasyon sa publiko.</desc>
+    <category lang="en">News</category>
+  </programme>
+
+  <!-- RPTV -->
+  <programme start="20260919120000 +0800" stop="20260919143000 +0800" channel="Rptv.ph">
+    <title lang="en">Eat Bulaga!</title>
+    <desc lang="en">Simulcast broadcast ng masayang noontime show kasama ang mga paboritong host.</desc>
+    <category lang="en">Variety</category>
+  </programme>
+  <programme start="20260919143000 +0800" stop="20260919170000 +0800" channel="Rptv.ph">
+    <title lang="en">PBA D-League Highlights</title>
+    <desc lang="en">Mga kapana-panabik na labanan ng mga bagong sibol na manlalaro ng basketball.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919193000 +0800" channel="Rptv.ph">
+    <title lang="en">PBA Commissioner's Cup (Live Game 1)</title>
+    <desc lang="en">Live na tapatan ng mga paboritong koponan sa pinakaprestihiyosong liga ng bansa.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260919193000 +0800" stop="20260919220000 +0800" channel="Rptv.ph">
+    <title lang="en">PBA Commissioner's Cup (Live Game 2)</title>
+    <desc lang="en">Pangalawang laro sa hardcourt na magtatampok sa pinakamagagaling na imports sa liga.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+
+  <!-- BUKO -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Buko.ph">
+    <title lang="en">Bubble Gang Classics</title>
+    <desc lang="en">Nakatutuwang mga gags at parody na nagpasaya sa mga manonood noon.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Buko.ph">
+    <title lang="en">Wow Mali! Doble Tama</title>
+    <desc lang="en">Prank show ni Joey de Leon na pumupuntirya sa mga ordinaryong tao.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Buko.ph">
+    <title lang="en">Lokomoko U</title>
+    <desc lang="en">Gag show na hitik sa katatawanan at parody ng mga sikat na palabas.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Buko.ph">
+    <title lang="en">Iskul Bukol</title>
+    <desc lang="en">Klasikong sitcom ng Tito, Vic, at Joey sa loob ng Wanbol University.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <!-- SARI SARI -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Sari.Sari.ph">
+    <title lang="en">Ghost Adventures</title>
+    <desc lang="en">Kuwento ng mga kakaiba at nakakatakot na kababalaghan sa lumang bahay na bato.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Sari.Sari.ph">
+    <title lang="en">Class 3-C Has A Secret</title>
+    <desc lang="en">Misteryo at suspense sa loob ng isang silid-aralan kung saan may mamamatay-tao.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Sari.Sari.ph">
+    <title lang="en">The Lost Recipe</title>
+    <desc lang="en">Romantiko at mahiwagang kwento ng isang kusinerong naglakbay sa nakalipas na panahon.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Sari.Sari.ph">
+    <title lang="en">Barangay 143</title>
+    <desc lang="en">Animated serye tungkol sa pangarap, pag-ibig, at buhay ng mga kabataang basketbolista.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+
+  <!-- SOLAR FLIX -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Hintayan ng Langit</title>
+    <desc lang="en">Nakakaantig na drama ukol sa muling pagkikita ng dalawang dating magkasintahan sa purgatoryo.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Miracle in Cell No. 7</title>
+    <desc lang="en">Pelikulang nagpapaiyak tungkol sa wagas na pagmamahal ng amang may kapansanan sa anak.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Kita Kita</title>
+    <desc lang="en">Romantikong kwento ng isang babaeng bulag at masayahing kababayan sa bansang Hapon.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Solar.Flix.ph">
+    <title lang="en">Through Night and Day</title>
+    <desc lang="en">Paglalakbay ng magkasintahan sa bansang Iceland na sumubok sa kanilang pangmatagalang relasyon.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+
+  <!-- TAGALIZED MOVIE CHANNEL -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Tagalized.Movie.Channel.ph">
+    <title lang="en">Fast and Furious 9 (Tagalized)</title>
+    <desc lang="en">Mabilisang karera at matinding bakbakan laban sa mga kalaban ng kanilang pamilya.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Tagalized.Movie.Channel.ph">
+    <title lang="en">The Conjuring 3 (Tagalized)</title>
+    <desc lang="en">Imbestigasyon nina Ed at Lorraine Warren sa isang lalaking inalihan ng masamang demonyo.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Tagalized.Movie.Channel.ph">
+    <title lang="en">Aquaman (Tagalized)</title>
+    <desc lang="en">Pagtanggap ni Arthur Curry sa kanyang kapalaran bilang tunay na hari ng karagatan.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Tagalized.Movie.Channel.ph">
+    <title lang="en">Train to Busan (Tagalized)</title>
+    <desc lang="en">Pakikipaglaban ng mag-ama upang makaligtas sa mabilis kumalat na epidemya ng mga zombies.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+
+  <!-- VIVA CINEMA -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Bituing Walang Ningning</title>
+    <desc lang="en">Klasikong tapatan nina Dorina at Lavinia sa mundo ng musika at kasikatan.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Manila Boy</title>
+    <desc lang="en">Maaksyong kwento ng katapangan at prinsipyo sa maruming kalye ng lungsod Maynila.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Darna (Vilma Santos)</title>
+    <desc lang="en">Pagtatanggol ng paboritong pambansang superhero laban sa mga puwersa ng kasamaan.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="VIVA.Cinema.ph">
+    <title lang="en">Bagets</title>
+    <desc lang="en">Kuwento ng samahan, pagsubok, at pagbibinata ng limang magkakaibigang kabataan sa high school.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+
+  <!-- DEPED CHANNEL -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="Depedchannel.ph">
+    <title lang="en">ETulay: Grade 7 Mathematics</title>
+    <desc lang="en">Interaktibong online tutorial na nagpapadali sa pag-unawa ng basic algebra at geometry.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="Depedchannel.ph">
+    <title lang="en">ETulay: Grade 8 Science</title>
+    <desc lang="en">Pagsusuri sa mga batas ng pisika at kalikasan sa pamamagitan ng visual presentations.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="Depedchannel.ph">
+    <title lang="en">ETulay: Grade 9 English</title>
+    <desc lang="en">Pagpapaunlad ng kasanayan sa gramatika, tamang pagbasa, at pagsulat ng mga sanaysay.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="Depedchannel.ph">
+    <title lang="en">ETulay: Grade 10 Filipino</title>
+    <desc lang="en">Pagsusuri sa mga dakilang akdang pampanitikan tulad ng El Filibusterismo at Noli.</desc>
+    <category lang="en">Educational</category>
+  </programme>
+
+  <!-- ANIONE -->
+  <programme start="20260919120000 +0800" stop="20260919140000 +0800" channel="ANIONE.ph">
+    <title lang="en">Chainsaw Man</title>
+    <desc lang="en">Denji battles savage fiends and devils to repay his massive inherited debts.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919160000 +0800" channel="ANIONE.ph">
+    <title lang="en">Bleach: Thousand-Year Blood War</title>
+    <desc lang="en">Soul Reapers engage in a brutal final battle against the rising Quincy army.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919180000 +0800" channel="ANIONE.ph">
+    <title lang="en">Solo Leveling</title>
+    <desc lang="en">The world's weakest hunter discovers a magical quest log granting unlimited strength.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919200000 +0800" channel="ANIONE.ph">
+    <title lang="en">Spy x Family</title>
+    <desc lang="en">A secret agent creates a false family without realizing their lethal secret identities.</desc>
+    <category lang="en">Anime</category>
+  </programme>
+</tv>
